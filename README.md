@@ -68,3 +68,48 @@ echo "VITE_TMDB_API_KEY=your_tmdb_api_key_here" > .env
 
 # 5️⃣ Run the app
 npm run dev
+```
+Then open http://localhost:5173
+ in your browser 🎉
+
+ src/
+ <br/>
+├── components/
+ <br/>
+│   ├── MovieCard.jsx
+ <br/>
+│   ├── Navbar.jsx
+ <br/>
+│   └── SearchBar.jsx
+ <br/>
+├── contexts/
+ <br/>
+│   └── MovieContext.jsx
+ <br/>
+├── pages/
+ <br/>
+│   ├── Home.jsx
+ <br/>
+│   └── Favorites.jsx
+ <br/>
+├── App.jsx
+ <br/>
+└── main.jsx
+
+💡 Future Improvements
+
+🎥 Add movie details page with trailers and descriptions
+
+🌙 Add dark/light mode
+
+🧠 Save favorites to localStorage or Firebase
+
+📱 Improve mobile responsiveness
+
+🧑‍💻 Author
+
+Jayanth Tulugu
+💼 Machine Learning & Web Development Enthusiast
+🔗 [LinkedIn](https://www.linkedin.com/in/tulugu-jayanth/)
+
+⭐ [GitHub](https://github.com/18jayanth)
