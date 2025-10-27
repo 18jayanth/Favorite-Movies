@@ -1,5 +1,5 @@
 import '../css/MovieCard.css'
-import { useMovieContext } from '../contexts/Moviecontext'
+import { useMovieContext } from '../contexts/MovieContext'
 export default function MovieCard({movie})
 {
     //now we can access these functions in this component
