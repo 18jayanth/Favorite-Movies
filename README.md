@@ -4,6 +4,9 @@ A simple yet elegant web app built with **Vite + React** that lets you explore p
 
 ---
 
+## 🚀 Live Demo
+🔗 **[Favorite Movies](https://favorite-movies-hlnn.vercel.app//)**
+ 
 ## 🚀 Features
 
 ✨ **Discover Popular Movies**  
